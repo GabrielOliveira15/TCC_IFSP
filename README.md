@@ -7,6 +7,8 @@ Repositório para desenvolvimento do TCC.
 
 - Após inicializado esse container, o MySQL responde na porta 3307, entre no MySQL dentro do container e crie um usuário `api` com a senha `123`, dê todas as permissões.
 
+- Acesse via SGBD e crie um DATABASE com o nome `mydb`.
+
 - Agora pode copiar esse repositório e iniciar, favor testar conexão com o banco;
 
 ## Tecnologias utilizadas
