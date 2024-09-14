@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.gabrieloliveira.springsecurity.Controller.dto.EmailDTO;
-import com.gabrieloliveira.springsecurity.config.EmailSender;
+import com.gabrieloliveira.springsecurity.models.service.EmailSender;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.PostMapping;
